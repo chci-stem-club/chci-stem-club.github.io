@@ -12,5 +12,5 @@ A club website written with actually decent code structure this time...
 
 ## Deploy:
 ```
-https://networksaphyra.github.io/stem-club
+https://networksaphyra.github.io/stem-club](https://chci-stem-club.github.io/
 ```
