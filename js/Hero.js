@@ -5,8 +5,8 @@ import "animate.css";
 
 const CARD_INFO = [
   { id: 1, number: "200+", card_description: "Active Members" },
-  { id: 2, number: "100+", card_description: "Projects" },
-  { id: 3, number: "100+", card_description: "Events" },
+  { id: 2, number: "50+", card_description: "Projects" },
+  { id: 3, number: "25+", card_description: "Events" },
 ];
 
 const Hero = () => {
