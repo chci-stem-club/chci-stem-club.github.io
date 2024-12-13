@@ -4,7 +4,7 @@ import logo from "../assets/logo4.svg";
 import "animate.css";
 
 const CARD_INFO = [
-  { id: 1, number: "100+", card_description: "Active Members" },
+  { id: 1, number: "200+", card_description: "Active Members" },
   { id: 2, number: "100+", card_description: "Projects" },
   { id: 3, number: "100+", card_description: "Events" },
 ];

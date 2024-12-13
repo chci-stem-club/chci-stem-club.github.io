@@ -6,7 +6,7 @@ const FEATURE_ITEMS = [
   {
     title: "Who We Are",
     description:
-      "We are a passionate group of students dedicated to exploring and advancing the fields of Science, Technology, Engineering, and Mathematics (STEM). Our club brings together curious minds from diverse backgrounds to collaborate, innovate, and solve real-world problems.",
+      "We are a passionate group of students dedicated to exploring and advancing the fields of Science, Technology, Engineering, and Mathematics (STEM). Our club brings together curious minds from diverse backgrounds to collaborate, innovate, and solve real-world problems. We are also competing in the STEAM Innovation Challenge.",
     icon: "👥",
   },
   {
