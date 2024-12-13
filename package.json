@@ -1,11 +1,11 @@
 {
-  "name": "stem-club",
+  "name": "chci-stem-club",
   "version": "1.0.0",
-  "homepage": "https://networksaphyra.github.io/stem-club",
+  "homepage": "https://chci-stem-club.github.io",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel public/index.html --port 8000",
-    "build": "parcel build public/index.html --dist-dir build --public-url /stem-club/ --no-optimize",
+    "build": "parcel build public/index.html --dist-dir build --public-url ./ --no-optimize",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
