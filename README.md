@@ -17,5 +17,5 @@ This is the deployment repo.
 
 ## Deploy:
 ```
-https://networksaphyra.github.io/stem-club](https://chci-stem-club.github.io/
+https://chci-stem-club.github.io/
 ```
