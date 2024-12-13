@@ -1,0 +1,28 @@
+{
+  "name": "stem-club",
+  "version": "1.0.0",
+  "homepage": "https://networksaphyra.github.io/stem-club",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel public/index.html --port 8000",
+    "build": "parcel build public/index.html --dist-dir build --public-url /stem-club/ --no-optimize",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@mui/icons-material": "^6.1.10",
+    "@mui/material": "^6.1.10",
+    "animate.css": "^4.1.1",
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.2.0",
+    "postcss": "^8.4.49",
+    "process": "^0.11.10"
+  }
+}
