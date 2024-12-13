@@ -18760,17 +18760,17 @@ $538780980d505768$export$fb184b623420d9be = `N7mZ3G_title`;
 const $2d2c6e63dc51be50$var$CARD_INFO = [
     {
         id: 1,
-        number: "100+",
+        number: "200+",
         card_description: "Active Members"
     },
     {
         id: 2,
-        number: "100+",
+        number: "50+",
         card_description: "Projects"
     },
     {
         id: 3,
-        number: "100+",
+        number: "25+",
         card_description: "Events"
     }
 ];
@@ -18901,7 +18901,7 @@ $092e55e2cf785399$export$1a952fe22cdce89e = `sFQJsq_sectionTitle`;
 const $d900fbb7d49b075e$var$FEATURE_ITEMS = [
     {
         title: "Who We Are",
-        description: "We are a passionate group of students dedicated to exploring and advancing the fields of Science, Technology, Engineering, and Mathematics (STEM). Our club brings together curious minds from diverse backgrounds to collaborate, innovate, and solve real-world problems.",
+        description: "We are a passionate group of students dedicated to exploring and advancing the fields of Science, Technology, Engineering, and Mathematics (STEM). Our club brings together curious minds from diverse backgrounds to collaborate, innovate, and solve real-world problems. We are also competing in the STEAM Innovation Challenge.",
         icon: "\uD83D\uDC65"
     },
     {
@@ -19319,4 +19319,4 @@ $78f1c30269655c52$var$root.render(/*#__PURE__*/ (0, $228IU.jsx)((0, $d4J5n.Stric
 }));
 
 
-//# sourceMappingURL=index.25c516cb.js.map
+//# sourceMappingURL=index.31274dd1.js.map
