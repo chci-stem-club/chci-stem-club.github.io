@@ -7,8 +7,8 @@ A club website written with actually decent code structure this time...
 - ~~Add funtionality for interaction~~
 - ~~Port header to mobile~~
 - ~~Port hero to mobile~~
-- Add favicon
-- Get Vedant's photo / linkedin
+- ~~Add favicon~~
+- ~~Get Vedant's photo / linkedin~~
 
 ## Deploy:
 ```
