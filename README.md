@@ -4,7 +4,7 @@ A club website written with actually decent code structure this time...
 ## Note:
 This is the deployment repo.
 
-(Working Repo)[https://github.com/networksaphyra/stem-club]
+[Working Repo](https://github.com/networksaphyra/stem-club)
 
 ## TODO:
 - ~~Fix animation for Team section upon scroll~~
