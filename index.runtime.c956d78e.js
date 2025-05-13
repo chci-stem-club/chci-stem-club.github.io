@@ -61,7 +61,7 @@ $7d39d93f9098a310$export$f7ad0328861e2f03 = $7d39d93f9098a310$var$resolve;
 
 var $c4b98ff71160b3c1$exports = {};
 
-(parcelRequire("aKzDW")).register(new URL("", import.meta.url).toString(), JSON.parse('["Oy25l","index.31274dd1.js","hAaAA","instagram.f67e12e8.png","f9DvC","linkedin.ca5afae2.png","6mJC4","logo4.ad0c2f58.svg","jQ02Q","neev.d1c8768a.jpg","aO9LN","vedant.e883ad51.jpg","db5Kd","index.09b45950.css"]'));
+(parcelRequire("aKzDW")).register(new URL("", import.meta.url).toString(), JSON.parse('["Oy25l","index.f779ad0d.js","hAaAA","instagram.f67e12e8.png","f9DvC","linkedin.ca5afae2.png","6mJC4","logo4.ad0c2f58.svg","jQ02Q","neev.d1c8768a.jpg","aO9LN","vedant.e883ad51.jpg","db5Kd","index.09b45950.css"]'));
 
 
-//# sourceMappingURL=index.runtime.11c31d78.js.map
+//# sourceMappingURL=index.runtime.c956d78e.js.map

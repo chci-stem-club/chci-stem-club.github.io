@@ -19280,14 +19280,23 @@ const $52561ba2338691a3$var$Footer = ()=>{
                         })
                     ]
                 }),
-                /*#__PURE__*/ (0, $228IU.jsx)("div", {
+                "// ",
+                /*#__PURE__*/ (0, $228IU.jsxs)("div", {
                     className: (0, (/*@__PURE__*/$parcel$interopDefault($63db598f930c2b9d$exports))).copyright,
-                    children: /*#__PURE__*/ (0, $228IU.jsx)("p", {
-                        children: /*#__PURE__*/ (0, $228IU.jsx)("a", {
-                            href: "https://www.github.com/networksaphyra",
-                            children: "Creator"
-                        })
-                    })
+                    children: [
+                        "// ",
+                        /*#__PURE__*/ (0, $228IU.jsxs)("p", {
+                            children: [
+                                "// ",
+                                /*#__PURE__*/ (0, $228IU.jsx)("a", {
+                                    href: "https://www.github.com/networksaphyra",
+                                    children: "Creator"
+                                }),
+                                "// "
+                            ]
+                        }),
+                        "// "
+                    ]
                 })
             ]
         })
@@ -19319,4 +19328,4 @@ $78f1c30269655c52$var$root.render(/*#__PURE__*/ (0, $228IU.jsx)((0, $d4J5n.Stric
 }));
 
 
-//# sourceMappingURL=index.31274dd1.js.map
+//# sourceMappingURL=index.f779ad0d.js.map
