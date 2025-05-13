@@ -18,11 +18,11 @@ const Footer = () => {
             <a href="https://www.instagram.com/chci_stem/">@CHCI STEM</a>
           </p>
         </div>
-        // <div className={styles.copyright}>
-          // <p>
-            // <a href="https://www.github.com/networksaphyra">Creator</a>
-          // </p>
-        // </div>
+        {/* <div className={styles.copyright}>
+          <p>
+            <a href="https://www.github.com/networksaphyra">Creator</a>
+          </p>
+        </div> */}
       </div>
     </footer>
   );
